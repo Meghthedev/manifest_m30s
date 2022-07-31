@@ -2,16 +2,16 @@
 <manifest>
   
  <!-- Device Trees -->
-  <project path="device/samsung/m307f" name="Meghthedev/android_device_samsung_m307f" remote="github revision="android-12.0"/>
-  <project path="device/samsung/m30s-common" name="Meghthedev/android_device_samsung_m30s-common" remote="github revision="android-12.0"/>
+  <project path="device/samsung/m307f" name="Meghthedev/android_device_samsung_m307f" remote="github" revision="android-12.0"/>
+  <project path="device/samsung/m30s-common" name="Meghthedev/android_device_samsung_m30s-common" remote="github" revision="android-12.0"/>
  
  <!-- Kernel -->
   <project path="kernel/samsung/m30s" name="GalaxyM30s/android_kernel_samsung_m30s" remote="github" revision="android-12.0"/>
   <project path="kernel/samsung/m30s-common" name="GalaxyM30s/android_kernel_samsung_m30s-common" remote="github" revision="lineage-18.1"/>
 
  <!-- Vendor Trees -->
-  <project path="vendor/samsung/m307f" name="GalaxyM30s/android_vendor_samsung_m307f" remote="github revision="android-12.0"/>
-  <project path="vendor/samsung/m30s-common" name="GalaxyM30s/android_vendor_samsung_m30s-common" remote="github revision="android-12.0"/>
+  <project path="vendor/samsung/m307f" name="GalaxyM30s/android_vendor_samsung_m307f" remote="github" revision="android-12.0"/>
+  <project path="vendor/samsung/m30s-common" name="GalaxyM30s/android_vendor_samsung_m30s-common" remote="github" revision="android-12.0"/>
 
   <!-- Extras-->
   <project path="hardware/samsung" name="GalaxyM30s/android_hardware_samsung remote="github" revision="snow"/>
