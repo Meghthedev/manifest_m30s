@@ -18,6 +18,6 @@
   <project path="device/samsung_slsi/sepolicy" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" revision="lineage-19.1"/>
   <project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" remote="github" revision="lineage-19.1"/>
   <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="lineage-19.1"/>
-  <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="github" revision="lineage-19.1">
-  <project path="hardware/samsung/nfc" name="LineageOS/android_hardware_samsung_nfc" remote="github" revision="lineage-19.1">
+  <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="github" revision="lineage-19.1"/>
+  <project path="hardware/samsung/nfc" name="LineageOS/android_hardware_samsung_nfc" remote="github" revision="lineage-19.1"/>
 </manifest>
