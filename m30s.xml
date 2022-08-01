@@ -14,7 +14,7 @@
   <project path="vendor/samsung/m30s-common" name="GalaxyM30s/android_vendor_samsung_m30s-common" remote="github" revision="android-12.0"/>
 
   <!-- Extras-->
-  <project path="hardware/samsung" name="GalaxyM30s/android_hardware_samsung remote="github" revision="snow"/>
+  <project path="hardware/samsung" name="GalaxyM30s/android_hardware_samsung" remote="github" revision="snow"/>
   <project path="device/samsung_slsi/sepolicy" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="github" revision="lineage-19.1"/>
   <project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" remote="github" revision="lineage-19.1"/>
   <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="lineage-19.1"/>
