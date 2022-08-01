@@ -19,4 +19,5 @@
   <project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" remote="github" revision="lineage-19.1"/>
   <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="github" revision="lineage-19.1"/>
   <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="github" revision="lineage-19.1"/>
+  <project path="device/custom/sepolicy/exynos" name="Meghthedev/device_custom_sepolicy_exynos" remote="github" revision="main"/>
 </manifest>
